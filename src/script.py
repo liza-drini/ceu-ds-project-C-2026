@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot
 import seaborn as sns
 
-e_path = '/cost.csv'# Economic data file path
+e_path = '/Cost.csv'# Economic data file path
 rt_path = '/checklist-cat.csv'# Real-time data path
 s_path = ''# Social path
 
