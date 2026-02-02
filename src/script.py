@@ -4,7 +4,7 @@ import matplotlib.pyplot
 import seaborn as sns
 
 e_path = '/cost.csv'# Economic data file path
-rt_path = '/AggregatedData_AustralianSpeciesOccurrences.csv'# Real-time data path
+rt_path = '/checklist-cat.csv'# Real-time data path
 s_path = ''# Social path
 
 # Can be used to connect to a database if one of our sources ends up being postgresSQL
