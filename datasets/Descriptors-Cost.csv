@@ -69,3 +69,4 @@ Benefit_value(s),"Mention (if any) of the benefit value in the analyzed material
 Details,"When necessary, narrative elements deemed important either to understand the cost estimate or to support choices made for completing the database; this column was left unchanged from the original entries in order to allow trace-back investigations",InvaCost_1.0,Incomplete (cells without information are left empty)
 Initial contributors_names,Name of contributor(s) having collated the cost entry,InvaCost_1.0,Incomplete (cells without information are left empty)
 Double-checking,"Assessment of cost information collated (by at least) two contributors; yes if it has been double checked, no if it has not. The names/contacts of each contributor are provided in the Initial contributors_names column",InvaCost_3.0,Incomplete (cells without information are left empty)
+,,,
