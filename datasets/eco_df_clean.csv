@@ -1,0 +1,115 @@
+Publication_year,Species,Common_name,Official_country,State|Province|Administrative_area,Location,Cost_estimate_per_year_2017_USD_exchange_rate,Applicable_year,Impacted_sector,Type_of_cost,Details
+2002,Felis catus,Feral Cat,Australia,Unspecified,Diverse/Unspecified,825276.359413926,2000,Authorities-Stakeholders,Control,"Governments are estimated to spend at least $1 million on feral cat control annually. Annual cat control research costs are also around $1 million per year.
+Control and research cost estimates are likely to be very conservative as they do not fully account for salaried positions and associated infrastructure.
+The methodology is shortly presented at the begining of the paper, but no details on cost calculations or sources."
+2013,Felis catus,Feral Cat,Australia,Unspecified,"Dirk Hartog Island
+Area (62 790 Ha)",12100405.6541173,2013,Authorities-Stakeholders,Eradication,"Cost of eradication if no internal fence is built. 
+Cat eradication on Dirk Hartog Island, ""Our linear model estimates treatment costs at USD 11.5 M, with 95% confidence intervals of USD $3.7M and USD $24.2 M.""
+No period specified"
+2013,Felis catus,Feral Cat,Australia,Unspecified,"Dirk Hartog Island
+Area (62 790 Ha)",29461.8572448073,2013,Authorities-Stakeholders,Control,"Add +20 000 $ for material at each boundary of the fence ""The cost for fence materials and construction is estimated at USD $28 000 per km. The two ends of any such fence – where it meets the ocean – are particularly vulnerable to incursions (Long&Rob- ley 2004). We therefore add an additional USD $10 000 at each boundary of each fence to account for the construction costs of additional structures.""
+--> value of cost ""USD 28 000/ km"" => Not found in Long&Robley 2004 (other values)"
+2004,Felis catus/Oryctolagus cuniculus/Vulpes vulpes,Cat/Red fox/Rabbit,Australia,Unspecified,Wardang Island/Currawinya National Park/Royal Botanic Gardens Cranbourne/Heirisson Prong/Watarrka National Park/Yaraandoo Environmental Centre/N.S.W Roads and Traffic Authority,9543.86978730676,2004,Authorities-Stakeholders,Control,"Cost of the fence material. 
+Fox + Feral cat + feral rabbit fences : $10,300/km or $9,700/km without the electric wires.
+"
+2004,Felis catus/Oryctolagus cuniculus/Vulpes vulpes,Cat/Red fox/Rabbit,Australia,Unspecified,Little Desert Lodge and Malleefowl Sanctuary/Scotia Sanctuary/Venus Bay Conservation Park/Peron Peninsula/Paruna Sanctuary/Ellenbrook Nature Reserve/Twin Swamps Nature Reserve,8971.23760006836,2004,Authorities-Stakeholders,Control,"Cost of the fence material. 
+Fox + Feral cat + feral rabbit fences : $10,300/km or $9,700/km without the electric wires.
+"
+2004,Felis catus/Oryctolagus cuniculus/Vulpes vulpes,Cat/Red fox/Rabbit,Australia,Unspecified,Calga Springs Sanctuary/Tidbinbilla Nature Reserve/Woodlands Historic Park and Hamilton Community Parklands/Cleland Wildlife Park,10116.5019745452,2004,Authorities-Stakeholders,Control,"Cost of the fence material. 
+Fox + Feral cat + feral rabbit fences : $10,300/km or $9,700/km without the electric wires.
+"
+2004,Felis catus/Oryctolagus cuniculus/Vulpes vulpes,Cat/Red fox/Rabbit,Australia,Unspecified,Yookamurra Sanctuary/Living Desert Wildlife Park/Karakamia,7635.09582984541,2004,Authorities-Stakeholders,Control,"Cost of the fence material. 
+Fox + Feral cat + feral rabbit fences : $10,300/km or $9,700/km without the electric wires.
+"
+2013,Felis catus,Feral Cat,Australia,Unspecified,"Dirk Hartog Island
+Area (62 790 Ha)",16572294.7002041,2013,Authorities-Stakeholders,Eradication,"Eradication program of cats
+Various eradiction costs according to the number of internal fences from 15.4 to 15.9 M, median = 15,75. Confidence intervals are provided in table 1.
+"
+2013,Felis catus,Feral Cat,Australia,Unspecified,Faure Island,35459.4496125003,2013,Authorities-Stakeholders,Eradication,"Eradication of cats in Faure Island years before (5800 Ha)
+Value ""corrected from inflation"", but no source given"
+2011,Felis catus,Feral Cat,Australia,Unspecified,Macquarie Island,111794.275400227,2009,Authorities-Stakeholders,Eradication,"[Robinson, 2008, Personal communication] Cost of successful insular cat eradication campaigns. Costs converted by Campbell et al 2011."
+2010,Felis catus,Feral Cat,Australia,Unspecified,Faure Island,29227.0048986001,2010,Authorities-Stakeholders,Eradication,NOT FOUND IN ORIGINAL PAPER
+2006,Felis catus/Oryctolagus cuniculus/Vulpes vulpes,Cat/Red fox/Rabbit,Australia,Unspecified,Unspecified,11185.3579695031,2005,Authorities-Stakeholders,Control,"Material costs of exclusion fences; costs depend on the design. Punctual : fence building. No details on cost calculations or initial cost of each fence component is provided. However, fence design and product manufacturers are provided.  ""﻿As of January 2005, fencing material costs per km were AUD $11,669.50 for Design 5, AUD $12,432 for Design 7 and AUD $8814.5 for Design 9."" Here we report the median value. "
+2010,Felis catus,Feral Cat,Australia,Unspecified,Unspecified,11162.1751036689,2010,Authorities-Stakeholders,Control,"Fence designs = > Cost and effectiveness of six different predator-exclusion fence designs. 
+Highest possible benefit-to-cost ratio (and also lowest probability of failure) => 10 825$/km
+(other designs = 7700 to 10825/km)"
+2016,Felis catus,Feral Cat,Australia,Unspecified,Faure Island,500352.622608849,2016,Authorities-Stakeholders,Eradication,"The authors assessed that they have taken the individual eradication costs from Martin et al 2006 (ID WOS12448), but it was impossible to find these values in the original paper"
+2016,Felis catus,Feral Cat,Australia,Unspecified,Tasman Island,18520.9496626819,2016,Authorities-Stakeholders,Eradication,"The authors assessed that they have taken the individual eradication costs from Martin et al 2006 (ID WOS12448), but it was impossible to find these values in the original paper"
+2016,Felis catus,Feral Cat,Australia,Unspecified,Hermite,114391.823225071,2016,Authorities-Stakeholders,Eradication,"The authors assessed that they have taken the individual eradication costs from Martin et al 2006 (ID WOS12448), but it was impossible to find these values in the original paper"
+2014,Felis catus/Oryctolagus cuniculus/Vulpes vulpes,Cat/Red fox/Rabbit,Australia,Unspecified,Mulligan Flat,1213341.24100308,2014,Authorities-Stakeholders,Prevention,"11.5 km long fence, encloses 485 Ha to protect plants. Enclosure has facilitated the removal of pest vertebrate predators, including foxes and cats. The enclosed rabbit population has also been targeted and has been dramatically reduced. Also limits the number of kangaroos (over grazing). "
+2006,Felis catus,Feral Cat,Australia,Unspecified,Macquarie Island,3139773.66353342,2003,Authorities-Stakeholders,Eradication,"[Copson, 2006, Personal communication] original reports not found (grey litterature), but the review seems good. Prices reajusted to US$ 2003"
+2009,Felis catus,Feral cats,Australia,Unspecified,New South Wales,133695.179298494,2008,Authorities-Stakeholders,Control/Prevention,"Expenditures on management, administration, and research (conservation estate). Table 4.4 ""Allocation of expenditures by pest, for the year 2007–08 ($m)"". Details in the text. "
+2009,Felis catus,Feral cats,Australia,Unspecified,South Australia,71622.417481336,2008,Authorities-Stakeholders,Control/Prevention,"Expenditures on management, administration, and research. Table 4.4 ""Allocation of expenditures by pest, for the year 2007–08 ($m)"". Details in the text. "
+2009,Felis catus,Feral cats,Australia,Unspecified,Western Australia,630277.273835756,2008,Authorities-Stakeholders,Control/Prevention,"Expenditures on management, administration, and research (agriculture). Table 4.4 ""Allocation of expenditures by pest, for the year 2007–08 ($m)"". Details in the text. "
+2009,Felis catus,Feral cats,Australia,Unspecified,Western Australia,1575693.18458939,2008,Authorities-Stakeholders,Control/Prevention,"Expenditures on management, administration, and research (conservation estate). Table 4.4 ""Allocation of expenditures by pest, for the year 2007–08 ($m)"". Details in the text. 
+The $1.650m for the feral cats in WA conservation estate comprises expenditure on direct management and on one year of the cat mesopredator work"
+2004,Felis catus,Feral Cat,Australia,Unspecified,Diverse/Unspecified,715790.234048007,2004,Authorities-Stakeholders,Control,Labour cost of animal control
+2012,Felis catus,Feral Cat,Australia,Unspecified,Kimberly,193449.68063903,2012,Authorities-Stakeholders,Control/Education,"Ceasing the poison-baiting of dingoes on pastoral land (intact populations of Canis lupis dingo, a naturalized canid and Australia’s top terrestrial predator, regulate cat activity (Glen et al. 2007; Kennedy et al. 2011), education on the role of dingoes in trophic regulation, and cat spaying programs) based on expert elicitation"
+2014,Diverse/Unspecified,Predators (cats and foxes),Australia,Unspecified,Aride zone of Australia,2022.930946111,2012,Authorities-Stakeholders,Control,"Most cost-efficient fence to protect bilbies against predators if enough land is available to reach the optimal separation of 40km between two fences. Cost includes eradication cost, maintenance,  monitoring, construction cost). Comparison with other fence (ex single fence = $3000 (95% probabilities) to  $8000 / bilby / year (5% probability)"
+2012,Felis catus/Canis lupus,Feral cats/Dingoes,Australia,Unspecified,"Lorna Glen (Matuwa Conservation Park, Western Australia)",119544.164647695,2012,Authorities-Stakeholders,Control,"cost per km = 9683
+Prediction of the optimal solution : a fence that was predicted to cost AU$108 143 and AU$6566/year to maintain (paddock A+G and A+H = 10,6 km perimeter, or 543 Ha) +++ other scenarios"
+2012,Felis catus/Canis lupus,Feral cats/Dingoes,Australia,Unspecified,"Lorna Glen (Matuwa Conservation Park, Western Australia)",7258.2320175764,2012,Authorities-Stakeholders,Control,Cost of fence maitenance. No calculation or references for the budget available AU$7000 and parameters for the optimal solution AU$6566 provided. The goal of the paper is to provide a decision-support tool to choose the best location for exclosure fences; case study in Lorna Glen
+2012,Felis catus/Canis lupus,Feral cats/Dingoes,Australia,Unspecified,"Lorna Glen (Matuwa Conservation Park, Western Australia)",1102.11046626922,2012,Authorities-Stakeholders,Eradication,"Cost of removing predators from inside the exclusion fence, following its construction. No calculation or references provided. The goal of the paper is to provide a decision-support tool to choose the best location for exclosure fences; case study in Lorna Glen"
+2004,Felis catus/Vulpes vulpes,Cat/Red fox,Australia,Unspecified,Southern half of Western Australia,428639.051822415,2004,Authorities-Stakeholders,Control,"Total aerial baiting costs from April 1994 to October 2001
+Provide details of costs per places, but no reference, no justifications"
+2017,Felis catus,Cat,Australia,Western Australia,Unspecified,230142.281054742,2017,Authorities-Stakeholders,Eradication,"Table 1. Management eradication protocols for invasive species (Total costs).The islands
+have a total area of 68,780 ha, ranging in size from
+0.002 to 23,569 ha, with most (591) smaller than
+1000 ha."
+2019,Felis catus/Oryctolagus cuniculus,Felis catus/Oryctolagus cuniculus,Australia,Perth,AWC's Mt Gibson Wildlife Sanctuary,130297.370225658,2019,Environment,Eradication,"Combining
+salary,
+consumables,
+equip
+ment,
+and vehicle operating costs, the total
+minimum cost of removal/eradication and
+monitoring activities within the 7832 ha
+fenced area across the 14.5-month study
+was estimated at $390,983 or just under
+$50 per hectare."
+2020,Felis catus,Cat,Australia,Australia,Australia,50788190.8481707,2019,Health,Control/Medical care,Table 1: Summary of the annual medical and lost-productivity costs from acute toxoplasmosis
+2020,Felis catus,Cat,Australia,Australia,Australia,147965595.384434,2019,Health,Control/Medical care,"Table 2: Summary of the medical, ongoing care and lost productivity costs from congenital Toxoplasmosis gondii infections"
+2020,Felis catus,Cat,Australia,Australia,Australia,2139502527.85601,2019,Health,Control/Medical care,Table 3: Summary of the costs from the impacts of Toxoplasmosis gondii infection on human behaviour and mental illness traffic accidents component
+2020,Felis catus,Cat,Australia,Australia,Australia,1639618759.66535,2019,Health,Control/Medical care,Table 3: Summary of the costs from the impacts of Toxoplasmosis gondii infection on human behaviour and mental illness suicides and suicide attempts
+2020,Felis catus,Cat,Australia,Australia,Australia,52787725.9209333,2019,Health,Control/Medical care,Table 3: Summary of the costs from the impacts of Toxoplasmosis gondii infection on human behaviour and mental illness schitzophrenia component
+2020,Felis catus,Cat,Australia,Australia,Australia,6645121.55848113,2019,Agriculture,Damage-loss,Table 4: summary of theannual costs of Toxoplasma gondii induced abortions to the sheep industry in Australia
+2020,Felis catus,Cat,Australia,South Australia,South Australia,16410.1339949807,2018,Agriculture,Damage-loss,"Table 5: Estimates for the annual costs of macroscopic sarcocystosis to the sheep industry in Australia, by state: South Australia - Lamb"
+2020,Felis catus,Cat,Australia,South Australia,South Australia,862808.37849165,2018,Agriculture,Damage-loss,"Table 5: Estimates for the annual costs of macroscopic sarcocystosis to the sheep industry in Australia, by state: South Australia - Mutton"
+2020,Felis catus,Cat,Australia,New South Wales,New South Wales,32747.3340610948,2018,Agriculture,Damage-loss,"Table 5: Estimates for the annual costs of macroscopic sarcocystosis to the sheep industry in Australia, by state: New South Wales- Lamb"
+2020,Felis catus,Cat,Australia,New South Wales,New South Wales,12544.6357650519,2018,Agriculture,Damage-loss,"Table 5: Estimates for the annual costs of macroscopic sarcocystosis to the sheep industry in Australia, by state: New South Wales - Mutton"
+2020,Felis catus,Cat,Australia,Victoria,Victoria,38582.0483704212,2018,Agriculture,Damage-loss,"Table 5: Estimates for the annual costs of macroscopic sarcocystosis to the sheep industry in Australia, by state: Victoria - Lamb"
+2020,Felis catus,Cat,Australia,Victoria,Victoria,200568.304383097,2018,Agriculture,Damage-loss,"Table 5: Estimates for the annual costs of macroscopic sarcocystosis to the sheep industry in Australia, by state: Victoria Mutton"
+2020,Felis catus,Cat,Australia,Queensland,Queensland,251.622054589704,2018,Agriculture,Damage-loss,"Table 5: Estimates for the annual costs of macroscopic sarcocystosis to the sheep industry in Australia, by state: Queensland - Mutton"
+2020,Felis catus,Cat,Australia,Western Australia,Western Australia,9189.67503718917,2018,Agriculture,Damage-loss,"Table 5: Estimates for the annual costs of macroscopic sarcocystosis to the sheep industry in Australia, by state:Western Australia - Lamb"
+2020,Felis catus,Cat,Australia,Western Australia,Western Australia,11669.4286186529,2018,Agriculture,Damage-loss,"Table 5: Estimates for the annual costs of macroscopic sarcocystosis to the sheep industry in Australia, by state: Western Australia - Mutton"
+2020,Felis catus,Cat,Australia,Tasmania,Tasmania,34424.8144250261,2018,Agriculture,Damage-loss,"Table 5: Estimates for the annual costs of macroscopic sarcocystosis to the sheep industry in Australia, by state: Tasmania - Lamb"
+2020,Felis catus,Cat,Australia,Tasmania,Tasmania,75851.286021244,2018,Agriculture,Damage-loss,"Table 5: Estimates for the annual costs of macroscopic sarcocystosis to the sheep industry in Australia, by state: Tasmania - Mutton"
+2020,Felis catus,Cat,Australia,Australia,Australia,3639153.83242798,2019,Health,Control/Medical care,Costs of medical care and lost productivity from Cat transmitted Batronella henselae infection
+2016,Diverse/Unspecified,Cats and foxes,Australia,South Australia,Adelaide hills,3416.4490052088,2016,Environment,Control,Case study 1: Adelaide Hills
+2016,Diverse/Unspecified,Cats and foxes,Australia,South Australia,Adelaide hills,3416.4490052088,2016,Environment,Control,Case study 1: Adelaide Hills
+2016,Diverse/Unspecified,Cats and foxes,Australia,South Australia,Adelaide hills,3416.4490052088,2016,Environment,Control,Case study 1: Adelaide Hills
+2016,Diverse/Unspecified,Cats and foxes,Australia,South Australia,Adelaide hills,3416.4490052088,2016,Environment,Control,Case study 1: Adelaide Hills
+2016,Diverse/Unspecified,Cats and foxes,Australia,South Australia,Adelaide hills,3416.4490052088,2016,Environment,Control,Case study 1: Adelaide Hills
+2016,Diverse/Unspecified,Cats and foxes,Australia,South Australia,Adelaide hills,3416.4490052088,2016,Environment,Control,Case study 1: Adelaide Hills
+2016,Diverse/Unspecified,Cats and foxes,Australia,South Australia,Adelaide hills,3416.4490052088,2016,Environment,Control,Case study 1: Adelaide Hills
+2016,Diverse/Unspecified,Cats and foxes,Australia,South Australia,Adelaide hills,3416.4490052088,2016,Environment,Control,Case study 1: Adelaide Hills
+2016,Diverse/Unspecified,Cats and foxes,Australia,South Australia,Adelaide hills,3416.4490052088,2016,Environment,Control,Case study 1: Adelaide Hills
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Murray Mallee,2277.6326701392,2016,Environment,Control,Case study 2: Murray Mallee
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Murray Mallee,2277.6326701392,2016,Environment,Control,Case study 2: Murray Mallee
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Murray Mallee,2277.6326701392,2016,Environment,Control,Case study 2: Murray Mallee
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Murray Mallee,2277.6326701392,2016,Environment,Control,Case study 2: Murray Mallee
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Murray Mallee,2277.6326701392,2016,Environment,Control,Case study 2: Murray Mallee
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Murray Mallee,2277.6326701392,2016,Environment,Control,Case study 2: Murray Mallee
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Murray Mallee,2277.6326701392,2016,Environment,Control,Case study 2: Murray Mallee
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Murray Mallee,2277.6326701392,2016,Environment,Control,Case study 2: Murray Mallee
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Murray Mallee,1138.8163350696,2016,Environment,Control,Case study 2: Murray Mallee
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Yorke Peninsula coastal,5694.081675348,2016,Environment,Control,Case Study 3: Yorke Peninsula Coastal
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Yorke Peninsula coastal,5694.081675348,2016,Environment,Control,Case Study 3: Yorke Peninsula Coastal
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Yorke Peninsula coastal,5694.081675348,2016,Environment,Control,Case Study 3: Yorke Peninsula Coastal
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Yorke Peninsula coastal,5694.081675348,2016,Environment,Control,Case Study 3: Yorke Peninsula Coastal
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Yorke Peninsula coastal,5694.081675348,2016,Environment,Control,Case Study 3: Yorke Peninsula Coastal
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Yorke Peninsula coastal,5694.081675348,2016,Environment,Control,Case Study 3: Yorke Peninsula Coastal
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Yorke Peninsula coastal,5694.081675348,2016,Environment,Control,Case Study 3: Yorke Peninsula Coastal
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Yorke Peninsula coastal,3416.4490052088,2016,Environment,Control,Case Study 3: Yorke Peninsula Coastal
+2016,Diverse/Unspecified,"rabbits, hares, cats",Australia,South Australia,Yorke Peninsula coastal,2277.6326701392,2016,Environment,Control,Case Study 3: Yorke Peninsula Coastal
+2020,Felis catus,Feral cat,Australia,Unspecified,Dirk Hartog Island,852388.356504455,2020,Authorities-Stakeholders,Eradication,Unspecified
